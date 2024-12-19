@@ -1,5 +1,6 @@
 ## Massimiliano Giordano Orsini
-## PhD Student in "Environment, Resources and Sustainable Development" @uniparthenope
+## PhD Student in "Environment, Resources and Sustainable Development" 40° cycle @uniparthenope
+  * International PhD Programme / UNESCO Chair
   * Research interests: artificial intelligence, generative models.
 
 ## Master of Science in Machine Learning & Big Data Student @uniparthenope 
